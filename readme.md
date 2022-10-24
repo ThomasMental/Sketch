@@ -1,5 +1,4 @@
 Taochen Zhu
-20871099 t66zhu
 Kotlin 1.6.20
 Windows 10.0.22000
 
